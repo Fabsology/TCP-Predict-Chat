@@ -38,6 +38,10 @@ This repository contains a simple chat application implemented in C# using the T
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## About the Author
+
+This project was developed by Fabian Müller.
+
 ---
 
-Feel free to contribute to the project by submitting pull requests or opening issues. For questions or further information, contact [your contact information here].
+Feel free to contribute to the project by submitting pull requests or opening issues. For questions or further information, contact [Fabian Müller's contact information here].
